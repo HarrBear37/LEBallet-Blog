@@ -1,0 +1,16 @@
+div.textBox{
+    display: block;
+    background-color: #D1D1D1;
+    margin: 10px 100px 10px 100px;
+    padding: 10px 60px;
+}
+
+img {
+    width:50%;
+    display: block;
+    margin: 0 auto;
+}
+
+p.indent {
+    text-indent: 50px;
+}
